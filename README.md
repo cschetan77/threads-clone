@@ -35,10 +35,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Tech Stack
 
-* Clerk - Complete Authentication Solution
-* Uploadthing - File upload for Next.js Developers
-* Next.js - Framework
+* [Clerk](https://clerk.com/) - Complete Authentication Solution
+* [Uploadthing](https://docs.uploadthing.com/) - File upload for Next.js Developers
+* [Next.js](https://nextjs.org/) - Framework
 * svix - webhooks
+* [Shadcn components](https://ui.shadcn.com/) - Beautiful prebuilt open-source React UI components
+* 
 
 ## Features
 
