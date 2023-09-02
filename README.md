@@ -40,7 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 * [Next.js](https://nextjs.org/) - Framework
 * svix - webhooks
 * [Shadcn components](https://ui.shadcn.com/) - Beautiful prebuilt open-source React UI components
-* 
+* [mongoose](https://mongoosejs.com/docs/index.html) - ORM
 
 ## Features
 
