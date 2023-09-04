@@ -47,3 +47,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 * Responsive design incorporated right from the begining
 * mobile, tablet and desktop view.
 * Provide custom styled scrollbars using ::-webkit-scrollbar pseudo element
+
+## Time Frame
+3:45:31 
