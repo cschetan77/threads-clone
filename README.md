@@ -49,4 +49,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 * Provide custom styled scrollbars using ::-webkit-scrollbar pseudo element
 
 ## Time Frame
-4:16:19 
+4:51:00
